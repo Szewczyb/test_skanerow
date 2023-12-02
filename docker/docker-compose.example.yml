@@ -3,7 +3,7 @@ version: '3'
 services:
   postgres:
     container_name: photonix-postgres
-    image: postgres:11.1-alpine
+    image: postgres:11.22-alpine
     environment:
       POSTGRES_DB: photonix
       POSTGRES_PASSWORD: password
