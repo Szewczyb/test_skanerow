@@ -3,7 +3,7 @@ scipy==1.4.1
 matplotlib==3.1.2
 tensorflow==2.4.1
 opencv-python==4.5.1.48
-annoy==1.17.0
+annoy==1.17.3
 
 Django==3.2.12
 django-cors-headers==3.2.1
