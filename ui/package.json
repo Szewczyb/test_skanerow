@@ -38,7 +38,7 @@
     "throttle-debounce": "^3.0.1",
     "url-search-params-polyfill": "^8.1.0",
     "use-local-storage-state": "^9.0.2",
-    "use-long-press": "^1.1.1"
+    "use-long-press": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.7",
