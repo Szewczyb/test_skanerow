@@ -26,7 +26,7 @@ requests==2.22.0
 python-redis-lock==3.5.0
 redis==3.3.11
 
-psycopg2-binary==2.8.4
+psycopg2-binary==2.9.9
 gunicorn==20.0.4
 
 pytest==5.3.4
