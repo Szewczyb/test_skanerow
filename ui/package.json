@@ -9,7 +9,7 @@
     "@emotion/styled": "^10.0.27",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
+    "@testing-library/user-event": "^14.0.0",
     "apollo-link-retry": "^2.2.15",
     "classnames": "^2.3.1",
     "emotion-theming": "^10.0.27",
