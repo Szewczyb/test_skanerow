@@ -15914,9 +15914,9 @@ use-local-storage-state@^9.0.2:
   integrity sha512-loNVFqrzfsNoNVtM/3RJbjKVhSgTX15vPC5Tcuk7oflF0nonldRivMGAgFU3toi9v6hfTT/x8M+o6ifDN2n0OQ==
 
 use-long-press@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/use-long-press/-/use-long-press-1.1.1.tgz#7a67b0bdf8d6f7a9183b6d662c5d57d164183574"
-  integrity sha512-tqf6zDZ06g/Rt8rw+/jaekrdBTmrFXxjHHd2QgMlOhvs1fwOb9VA9d+DmkTPeNtL/byaJ8YeHTOwmluwxhXRLA==
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/use-long-press/-/use-long-press-1.2.0.tgz#0d0f86b52b237ef4d96a05466a22b7630bd28d14"
+  integrity sha512-B0aGXj9SdKR1zkAthZAzhi1tQiv8YERP1SBD29LiI0THtt6vDwIWHihLnBKKAijwGZth7HZ/kNbTQS68hNg89A==
 
 use-persisted-state@^0.3.0:
   version "0.3.0"
